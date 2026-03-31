@@ -1,4 +1,4 @@
-# Hey, I'm Theo 👋
+# Hi, I'm Theo
 
 CS graduate and ex-quant engineer at Optiver. Currently exploring clinical AI — building projects at the intersection of machine learning and
 healthcare.
