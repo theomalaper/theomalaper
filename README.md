@@ -17,7 +17,7 @@ More info here: https://theomalaper.vercel.app
 `Python` `C++` `TypeScript` `React` `FastAPI` `PyTorch` `MongoDB` `Docker`
 
 ## Contact
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=lin
+  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=lin
   kedin&logoColor=white)](https://www.linkedin.com/in/theo-malaper/)           
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=v
+  ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=v
   ercel&logoColor=white)](https://theomalaper.vercel.app)  
