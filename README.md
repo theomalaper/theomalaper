@@ -19,5 +19,4 @@ More info here: https://theomalaper.vercel.app
 ## Contact
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=lin
   kedin&logoColor=white)](https://www.linkedin.com/in/theo-malaper/)           
-  ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=v
-  ercel&logoColor=white)](https://theomalaper.vercel.app)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://theomalaper.vercel.app)    
