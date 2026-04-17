@@ -8,7 +8,7 @@ healthcare.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://theomalaper.vercel.app)  
 
 ## What I'm working on
-- **Motu** — AI travel platform with LLM-based itinerary planning and RAG
+- **Amble** — AI travel platform with LLM-based itinerary planning and RAG
 - **Biomedical AI** — independent research into clinical AI applications
 
 ## Background
