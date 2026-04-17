@@ -9,8 +9,8 @@ healthcare.
 
 ## What I'm working on
 - **Amble** — AI travel platform with LLM-based itinerary planning and RAG
-- **dermSAM** — Benchmarking SAM and MedSAM on ISIC 2018 melanoma segmentation — with a focus on the deployment gap [![repo](https://github.com/theomalaper#:~:text=Loading-,dermSAM,-Public)
-- **genomic-VEP** - Non-coding variant effect predictor using Nucleotide Transformer v2 with interpretability + autonomous optimization via autoresearch [![repo](https://github.com/theomalaper#:~:text=Python-,genomic%2Dvep,-Public)
+- **dermSAM** — Benchmarking SAM and MedSAM on ISIC 2018 melanoma segmentation — with a focus on the deployment gap [![repo]()(https://github.com/theomalaper#:~:text=Loading-,dermSAM,-Public)
+- **genomic-VEP** - Non-coding variant effect predictor using Nucleotide Transformer v2 with interpretability + autonomous optimization via autoresearch [![repo]()([https://github.com/theomalaper#:~:text=Python-,genomic%2Dvep,-Public](https://github.com/theomalaper/genomic-vep))
 
 ## Background
 - 2 years at Optiver building low-latency trading systems and ML pipelines
