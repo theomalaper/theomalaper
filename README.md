@@ -10,7 +10,7 @@ CS graduate and ex-quant engineer at Optiver. Currently exploring clinical AI �
 ## What I'm working on
 
 - **Amble** — AI travel platform with LLM-based itinerary planning and RAG
-- **dermSAM** — Benchmarking SAM and MedSAM on ISIC 2018 melanoma segmentation, with a focus on the deployment gap [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/theomalaper/dermSAM)
+- **dermSAM** — Benchmarking SAM and MedSAM on ISIC 2018 melanoma segmentation, focusing on the deployment gap [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/theomalaper/dermSAM)
 - **genomic-VEP** — Non-coding variant effect predictor using Nucleotide Transformer v2 with interpretability and autonomous optimisation via autoresearch [![Repo](https://img.shields.io/badge/Repo-181717?style=flat&logo=github&logoColor=white)](https://github.com/theomalaper/genomic-vep)
 
 ## Background
